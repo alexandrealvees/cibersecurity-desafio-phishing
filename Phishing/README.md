@@ -1,1 +1,21 @@
-gAAAAABofIEQBqwXp5r3DXo_IY2UkVLV85pOYNEeajwVN2pWELPinFUgkOE3sgPHI2Y20eCAC1PtxHJ1lL6VBWi9W2I4SsLsv3S5IV61rWfUxKWGsQJGUNf_TQpWTmLCPJX7wo5kmRfXz-GBfjgX2K6X0yDvo65uOpevfHZ8gocximNMosUV3UbV5r_JAZkykIO3Zha77m7YiMSWhrYlwPEvzGnEHpg5P0lSXRTKjiZDFvjzAwXvEVNcsf-xLz4HHgY2gj4FC_4ctUP_3oXDdu-Qrb0kUTIa3Uwa68ujgi8TLKhlrYhpo93jWxAw2U-A6Zu3lxJLD-Kr51ykyk1YHJQBC4d_Fqba9j-QVwyLTOjVDbU4RTgx7u1Xrysob0xVSPNTY67iHYIBlwslG2w7PrvDbItT-eXE4lOpZb_qF2el52Ix7RoyXcHwUj021-7Oet7oxrpNYinPAtwsfZmj5xhYhSSHfKoAk59fi1T71cR8s2UY_NT7PyLj4tpVZPaPI1hBPf3ObB5QUGMw07DWndWE-jDZPiDJavDKw91UyS1NN_et6WUr8WDaKHqdxLoLgkz97bTZFpNcc9aoHIqn8kMyrYPZJj61Mn8pC6Js56LQFdhmxwqRCKWcRISlClqV0c2kXWeN-WM06x3FTCH5USWl_NeL5bBbTLBKMaSziA0KrA-IodhmPzFvMPS2gFb4jE9xaTh953KCOYXw6GE-iZhxZRf1cMUsWH-YZ9g7yBQWVbeFFHKySTLl3B-UsZ2Ht_gwYLsLSHR2HliowCKJWbDC9K-I3sXN3Q-wiTyCRD3wIX8cYbNLoGbDtJG6vrG3EEMbUgi_K7R2ogTN702pl42kAIGS-s-JSJ8MpMUOLMzr2zpJ2Q_Bjq1bYkfVZzaPbYTRxfbLAibH
+# Phishing para captura de senhas do Facebook
+
+### Ferramentas
+
+- Kali Linux
+- setoolkit
+
+### Configurando o Phishing no Kali Linux
+
+- Acesso root: ``` sudo su ```
+- Iniciando o setoolkit: ``` setoolkit ```
+- Tipo de ataque: ``` Social-Engineering Attacks ```
+- Vetor de ataque: ``` Web Site Attack Vectors ```
+- Método de ataque: ```Credential Harvester Attack Method ```
+- Método de ataque: ``` Site Cloner ```
+- Obtendo o endereço da máquina: ``` ifconfig ```
+- URL para clone: http://testaspnet.vulnweb.com/login.aspx
+
+### Resutados
+
+![Alt text](./password.png "Optional title")
