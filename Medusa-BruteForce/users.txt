@@ -1,0 +1,10 @@
+root
+admin
+ctf
+mysql
+test
+guest
+service
+backup
+webadmin
+operator
